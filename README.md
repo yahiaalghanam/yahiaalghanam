@@ -1,6 +1,6 @@
 ### Hi there 👋, Yahia Alghanam
 #### Data Engineer | Data Analyst 
-![Data Engineer | Data Analyst ](https://drive.google.com/file/d/1ZNseU5ik9Wb2D90q5PcbYPWMYV2mVEDm/view?usp=drivesdk)
+![Data Engineer | Data Analyst ](https://github.com/yahiaalghanam/yahiaalghanam/blob/main/IMG_20240715_013613_717.jpg)
 
 Experienced data analyst with expertise in Python, SQL, Excel, Power BI, Data warehousing, ETL, Database management, and Big Data frameworks, Machine learning . A collaborative team member with a knack for problem-solving, dedicated to driving data-driven objectives.
 
