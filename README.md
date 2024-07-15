@@ -1,4 +1,4 @@
-![Data Engineer | Data Analyst ](https://github.com/yahiaalghanam/yahiaalghanam/blob/main/IMG_20240715_013613_717.jpg)
+![Data Engineer | Data Analyst ](https://github.com/yahiaalghanam/yahiaalghanam/blob/main/IMG_20240715_025959_183.jpg)
 
 # **Hi there, I'm Yahia Alghanam**
 #### **Data Engineer | Data Analyst** 
