@@ -47,7 +47,6 @@ Performed data exploration and analysis using SQL queries to uncover patterns an
 Designed ETL workflows to extract, transform, and load data into structured databases for analysis.  
 **Tools:** Python, SQL, ETL Concepts
 
-> You can replace these with your real repository names and links.
 
 ---
 
