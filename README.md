@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_20240715_025959_183.jpg" alt="Yahia Alghanam Banner" width="100%" />
+  <img src="11631541-7b49-4480-92eb-778e9fe2c88f.jpeg" width="100%" />
 </p>
 
 ---
