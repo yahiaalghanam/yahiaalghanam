@@ -1,6 +1,7 @@
 <p align="center">
   <img src="IMG_20240715_025959_183.jpg" alt="Yahia Alghanam Banner" width="100%" />
 </p>
+
 # Hi there, I'm Yahia Alghanam 👋
 
 ## Data Analyst | Data Engineer
