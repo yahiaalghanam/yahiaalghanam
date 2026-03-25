@@ -63,8 +63,8 @@ Designed ETL workflows to extract, transform, and load data into structured data
 ## Connect With Me
 
 - 📧 **Email:** yahiaelghanam99@gmail.com  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/yahia-alghanam/](https://www.linkedin.com/in/yahia-alghanam/)(#)  
-- 🌐 **Portfolio:** [https://yahiaalghanam.github.io/Portfolio/](https://yahiaalghanam.github.io/Portfolio/)(#)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/yahia-alghanam/](https://www.linkedin.com/in/yahia-alghanam/)  
+- 🌐 **Portfolio:** [https://yahiaalghanam.github.io/Portfolio/](https://yahiaalghanam.github.io/Portfolio/)  
 - 💻 **GitHub:** [https://github.com/yahiaalghanam](https://github.com/yahiaalghanam)
 
 ---
