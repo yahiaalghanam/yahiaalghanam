@@ -6,7 +6,7 @@
 
 # Hi there, I'm Yahia Alghanam 👋
 
-## Data Analyst | Data Engineer
+## Data & Analytics Engineer
 
 I’m passionate about transforming raw data into actionable insights using **SQL, Python, Power BI, Excel, and ETL workflows**.  
 I enjoy building analytical solutions, designing data pipelines, and creating dashboards that support data-driven decision-making.
